@@ -16,10 +16,10 @@ Every trigger returns a function to setup the trigger to your needs.
 
 defaultDuration = 500
 
-### collapseInOut
-duration: number = defaultDuration
-triggerName: string = 'collapseInOut'
+### collapseInOut  
+- duration: number = defaultDuration
+- triggerName: string = 'collapseInOut'
 
-### fadeInOut
-duration: number = defaultDuration
-triggerName: string = 'fadeInOut'
+### fadeInOut  
+- duration: number = defaultDuration
+- triggerName: string = 'fadeInOut'
