@@ -1,6 +1,6 @@
 {
   "name": "ngx-fx",
-  "version": "0.1.5",
+  "version": "1.0.0",
   "description": "Animation library for Angular 2+",
   "main": "dist/index.js",
   "scripts": {
