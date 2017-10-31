@@ -1,0 +1,27 @@
+{
+  "name": "ngx-fx",
+  "version": "0.1.1",
+  "description": "Animation library for Angular 2+",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "publish": "npm run build && npm publish",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessebuitenhuis/ngx-fx.git"
+  },
+  "keywords": [
+    "animations",
+    "angular",
+    "angular2",
+    "angular4"
+  ],
+  "author": "Jesse Buitenhuis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessebuitenhuis/ngx-fx/issues"
+  },
+  "homepage": "https://github.com/jessebuitenhuis/ngx-fx#readme"
+}
